@@ -1,6 +1,6 @@
 # Charity-Neural-Network
 ## Goals
-The goal of this analysis was to use neural networking to help Alphabet Soup's business team determine from a list of companies which ones will receive loans from Alphabet Soup and if the company will be successful if it receives money . Python's TensorFlow library was used to train and evaulate the data given. The data used consists of a list of companies that are currently receiving funding.
+The goal of this analysis was to use neural networking to help Alphabet Soup's business team determine from a list of companies which ones will receive loans from Alphabet Soup and if the company will be successful if it receives money. Python's TensorFlow library was used to train and evaulate the data given. The data used consists of a list of companies that are currently receiving funding.
 ## Results  
 ### Data Repurposing
 The target variable in this analysis was the "Is_Succesful" column while both the "EIN" and "NAME" columns were neither targets or features so both of them were removed. The rest of the columns that were not removed became the features.
